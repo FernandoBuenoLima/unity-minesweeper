@@ -1,2 +1,4 @@
 # unity-minesweeper
-Unity implementation of the classic Minesweeper
+Unity (C#) implementation of the classic Minesweeper.
+
+
